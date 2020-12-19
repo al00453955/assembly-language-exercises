@@ -1,6 +1,6 @@
 # assembly-language-exercises
 
-## August-December 2002
+## August-December 2002 @ ITESM CEM, MX
 
 ### About
 
